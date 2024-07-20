@@ -13,3 +13,5 @@ Day 5: Learnt about function declarations, expressions and arrow functions. Also
 Day 6: Learnt about array creation and methods like push, pop, shift, unshift, map, filter, reduce and forEach.
 
 Day 7: Learnt about object, object methods, nested objects, this keyword inside objects and object iteration.
+
+Day 8: Learnt about ES6+ features like template literals, destructuring of array and objects, spread and rest operators, default parameters and enhanced object literals.
