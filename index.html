@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>DOM Manipulation</title>
+    <style>
+        .custom-class {
+            display: block;
+            max-width: 10vw;
+            max-height: 10vh;
+            margin-bottom: 20px;
+        }
+    </style>
+</head>
+
+<body>
+
+    <p id="para">This is paragraph</p>
+    <p id="para1">This is removed from DOM</p>
+    <p class="red">I have a red background</p>
+
+    <ul>
+        <li>item 1</li>
+        <li>item 2</li>
+        <li>item 3</li>
+    </ul>
+    <ul id='removeItem'>
+        <li>item 1</li>
+        <li>item 2</li>
+        <li>item 3</li>
+    </ul>
+
+    <img src="https://images.unsplash.com/photo-1720048171098-dba33b2c4806?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDF8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+        alt="image">
+
+    <p id="updatePara">Click button to update text and mouse hover to add border.</p>
+    <button>Update para</button>
+    <script src="./09domManipulation.js"></script>
+</body>
+
+</html>

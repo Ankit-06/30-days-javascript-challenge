@@ -15,3 +15,5 @@ Day 6: Learnt about array creation and methods like push, pop, shift, unshift, m
 Day 7: Learnt about object, object methods, nested objects, this keyword inside objects and object iteration.
 
 Day 8: Learnt about ES6+ features like template literals, destructuring of array and objects, spread and rest operators, default parameters and enhanced object literals.
+
+Day 9: : Learnt about DOM manipulation like selecting, updating, creating, removing and appending HTML elements, updating attributes and classes of an element and event handling.
