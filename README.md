@@ -17,3 +17,5 @@ Day 7: Learnt about object, object methods, nested objects, this keyword inside 
 Day 8: Learnt about ES6+ features like template literals, destructuring of array and objects, spread and rest operators, default parameters and enhanced object literals.
 
 Day 9: : Learnt about DOM manipulation like selecting, updating, creating, removing and appending HTML elements, updating attributes and classes of an element and event handling.
+
+Day 10: Learnt about event handling using js like basic events, mouse events, keyboard events, form events and also about event bubbling and delegation.
