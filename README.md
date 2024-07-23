@@ -19,3 +19,5 @@ Day 8: Learnt about ES6+ features like template literals, destructuring of array
 Day 9: : Learnt about DOM manipulation like selecting, updating, creating, removing and appending HTML elements, updating attributes and classes of an element and event handling.
 
 Day 10: Learnt about event handling using js like basic events, mouse events, keyboard events, form events and also about event bubbling and delegation.
+
+Day 11: Learnt about promises and async/await keyword, promise chaining, fetch api, Promise.all and Promise.race.
