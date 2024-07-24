@@ -21,3 +21,5 @@ Day 9: : Learnt about DOM manipulation like selecting, updating, creating, remov
 Day 10: Learnt about event handling using js like basic events, mouse events, keyboard events, form events and also about event bubbling and delegation.
 
 Day 11: Learnt about promises and async/await keyword, promise chaining, fetch api, Promise.all and Promise.race.
+
+Day 12: Learnt about error handling using try-catch block, .catch() method, creating custom error class and error handling in promises.
